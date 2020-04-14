@@ -1,3 +1,3 @@
 # Regex-Notes
 
-- This notebook contains some Regex-notes.
+- This notebook contains some Regex-notes
