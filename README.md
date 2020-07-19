@@ -1,3 +1,3 @@
-# Regex-Notes
+# Regex-Notes by Cristina Mulas
 
-- This notebook contains some Regex-notes.
+- This notebook contains Python regex notes.
